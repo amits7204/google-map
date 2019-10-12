@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">google-map</string>
     <string name="title_activity_maps">Map</string>
+    <string name="Empty_with_args"> %1$s %2$s</string>
 </resources>
